@@ -2,6 +2,8 @@
 
 A responsive fashion storefront built with React and JavaScript. Roohana features a curated clothing collection, warm editorial styling, and product prices displayed in Indian rupees.
 
+**[Open the live Roohana website](https://shreyasharma2304bih-lgtm.github.io/roohana-ecommerce/)**
+
 [![Roohana storefront home page](./roohana-home.png)](./roohana-home.png)
 
 ## Features
